@@ -1,0 +1,113 @@
+/*GENERAL DEFAULTS*/
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  header{
+    background-color:#81A0E3;
+    height: 80px;
+    margin-bottom: 30px;
+  }
+  h1{
+    text-align: center;
+      padding: 18px;
+      font-family: 'Lato', sans-serif;
+      color: white;
+      letter-spacing: 1px;
+      font-weight: bold;
+      text-transform: uppercase;
+  }
+  section{
+    border: 3px solid #81A0E3;
+    width: 700px;
+    margin-left: 20px;
+    border-radius: 5px;
+    margin-bottom: 50px;
+    position: relative;
+    left: 200px;
+  }
+  h2.main{
+    margin-top: 5px;
+    margin-bottom: 25px;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+  }
+  h3.font{
+    text-decoration: underline;
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+  p{
+    margin-top: 5px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    font-family: 'Lato', sans-serif;
+  }
+  br{
+    margin-top: 5px;
+  }
+  
+  /*COLORS SECTION*/
+  .colors li{
+    width: 210px;
+    height: 65px;
+    text-align: center;
+    font-weight: bold;
+    display: inline-block;
+    font-family: 'Lato', sans-serif;
+    color: black;
+    letter-spacing: 2px;
+    margin-left: 10px;
+    padding-bottom: 30px;
+  }
+  li.gray{
+    background-color: #757575;
+  }
+  li.black{
+    background-color: black;
+    color: white;
+  }
+  li.Forest-Green{
+    background-color: #30611E;
+  }
+  /*FONTS SECTION*/
+  h3.Condensed{
+    font-family: 'Open Sans Condensed', sans-serif;
+  }
+   
+  h3.Roboto{
+    font-family: 'Roboto', sans-serif;
+  }
+  h3.Arial{
+    font-family: Arial, sans-serif;
+  }
+  p.condensed{
+    font-family: 'Open Sans Condensed', sans-serif;
+  }
+  p.roboto{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+  }
+  p.arial{
+    font-family: 'Arial', sans-serif;
+  }
+  /*TEXT STYLES*/
+  h2.text-style, h4{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    font-family: 'Lato', sans-serif;
+  }
+  ul.display li{
+  margin-left: 20px;
+  line-height: 30px;
+  font-family: 'Lato', sans-serif;
+  }
+  ul.display{
+    margin-bottom: 10px;
+  }
+  
+  
+  
+  
+  
